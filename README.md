@@ -1,1 +1,2 @@
-This is a responsive landing page,which is actually an website for selling paintings
+
+This is a responsive landing page,<br> which is actually a website for selling paintings
